@@ -9,8 +9,7 @@
 Hola, mi nombre es Jahir Israel Santamaria Lopéz, soy un estudiante de la UVM dek campus de chapultepec. Soy un entusiasta de la tecnología. Espero aprender nuevas habilidades y agregarlas a la lista.
 
 
-##  𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
+### Estoy aprendiendo
 <tabla>
   <tbody>
     <tr valign = "top">
@@ -18,7 +17,15 @@ Hola, mi nombre es Jahir Israel Santamaria Lopéz, soy un estudiante de la UVM d
         <span> 𝗛𝗧𝗠𝗟𝟱 </span> <br> <br> <br>
         <img height = "64px" src = "https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-
+      <tabla>
+  <tbody>
+     <tr valign = "top">
+      <td width = "25%" align = "center">
+        <span> <strong> Python </strong>
+        </span> <br> <br> <br>
+        <img height = "64px" src = "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-128.png">
+      </td>
+      
 <h1 align = "center">
 ✨ Dónde puedes encontrarme ✨
 
