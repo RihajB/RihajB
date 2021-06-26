@@ -22,12 +22,6 @@ Hola, mi nombre es Jahir Israel Santamaria Lopéz, soy un estudiante de la UVM d
 <h1 align = "center">
 ✨ Dónde puedes encontrarme ✨
 
-  <! - https://img.shields.io/badge/Linkedin-JahirIsrael-blue&?style=social&logo=linkedin ->
-
-  <! - https://img.shields.io/badge/Github-Jahir%20Israel-black&?style=social&logo=Github ->
-
-  <! - https://img.shields.io/badge/Twitter-Jahir%20Israel-blue&?style=social&logo=Twitter ->
-
 <p align = "centro">
   <br/>
   <a href="https://www.linkedin.com/in/jahir-santamaria-76aa341a2/">
@@ -46,7 +40,7 @@ Hola, mi nombre es Jahir Israel Santamaria Lopéz, soy un estudiante de la UVM d
 
 <div align = "center">
 
-! [ Estado de Github de Parth ] (https://github-readme-stats.vercel.app/api?username=RihajB&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+! Estado de Github de Jahir: (https://github-readme-stats.vercel.app/api?username=RihajB&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
 <hr>
 
